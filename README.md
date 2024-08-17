@@ -7,7 +7,9 @@
 This is a simple CRUD app to GET, POST, UPDATE, and DELETE issues.
 
 🛢️ **Database**: MySQL
+
 🖥️ **Backend**: Node.js
+
 🖌️ **Frontend**: React
 
 Steps to run the application:
